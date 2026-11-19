@@ -31,7 +31,7 @@ pip install -r requirements.txt
 jupyter notebook TP1_vision_artificielle.ipynb
 ```
 
-> **Votre propre image** : remplacez `data/image_exemple.jpg` (et éventuellement `data/autre_image.jpg`) par vos images.
+
 > Les images fournies sont des scènes synthétiques (voiture rouge, panneau rouge) afin que le TP soit reproductible.
 > Les valeurs numériques commentées correspondent à ces images ; les raisonnements restent valables pour toute image.
 
