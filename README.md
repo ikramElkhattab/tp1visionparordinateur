@@ -9,7 +9,7 @@ Corrigé du **TD 1** et réalisation du **TP 1** du chapitre 1 de *Vision artifi
 |---|---|
 | [`TD1_corrige.md`](TD1_corrige.md) | Corrigé détaillé des 7 exercices du TD (tâches visuelles, matrice image, échantillonnage/quantification, mémoire et débit vidéo, acquisition et mouvement, histogrammes et couleur, évaluation) |
 | [`TP1_vision_artificielle.ipynb`](TP1_vision_artificielle.ipynb) | Notebook des 6 activités du TP, avec code, sorties et réponses aux questions |
-| `data/` | Images d'entrée (`image_exemple.jpg`, `autre_image.jpg`) |
+| `data/` | Images d'entrée (`image1.jpg`, `image2.jpg`) |
 | `sorties/` | Figures et fichiers générés (histogrammes, masques, exports PNG/JPEG) |
 
 ## Activités du TP
